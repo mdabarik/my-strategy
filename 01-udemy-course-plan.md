@@ -1,62 +1,55 @@
 # Udemy Course Plan — Complete Roadmap
 
-**Total Courses:** 11 | **Languages:** C++ | Java | Python
+Welcome to the central planning repository for the **Animated Data Structures, Algorithms, and System Design** course series. This roadmap outlines a strategic plan to publish 17 high-quality, fully animated courses on Udemy across multiple programming languages (C++, Java, Python) while maintaining strict compliance with Udemy's content policies.
 
----
+## 📌 Master Course List
+**Total Courses:** 17 | **Languages:** C++ | Java | Python | Language-Agnostic
 
-## Series 1 — Blind 75: Algorithms Coding Interview Questions (100% Fixed Curriculumn)
-
+### Series 1 — Blind 75: Algorithms Coding Interview Questions (100% Fixed Curriculum)
 | # | Course Title | Chars |
 |---|---|---|
-| 01 | Blind 75: Algorithms Coding Interview Questions in Java (Upgrade) | 55 ✅ |
-| 02 | Blind 75: Algorithms Coding Interview Questions in Python (New) | 57 ✅ |
+| 01 | Blind 75: Algorithms Coding Interview Questions in Java | 55 ✅ |
+| 02 | Blind 75: Algorithms Coding Interview Questions in Python | 57 ✅ |
 
----
-
-## Series 2 — LeetCode Top 150: Algorithms Coding Interview Questions (100% Fixed Curriculumn)
-
+### Series 2 — LeetCode Top 150: Algorithms Coding Interview (100% Fixed Curriculum)
 | # | Course Title | Chars |
 |---|---|---|
-| 03 | LeetCode Top 150: Algorithms Coding Interview in Java (Upgrade) | 54 ✅ |
-| 04 | LeetCode Top 150: Algorithms Coding Interview in Python (New) | 56 ✅ |
+| 03 | LeetCode Top 150: Algorithms Coding Interview in Java | 54 ✅ |
+| 04 | LeetCode Top 150: Algorithms Coding Interview in Python | 56 ✅ |
 
-> ⚠️ Note: "Questions" removed from Series 2 titles to stay within 60 char limit.
-
----
-
-## Series 3 — Cracking Coding Interview Patterns: Part 1 (80% Fixed, 20% Flexible Curriculumn)
-
+### Series 3 — Animated Coding Interview Patterns (80% Fixed, 20% Flexible)
 | # | Course Title | Chars |
 |---|---|---|
-| 05 | Animated Cracking Coding Interview Patterns in Java: Part 1 (New) | 49 ✅ |
-| 06 | Animated Cracking Coding Interview Patterns in Python: Part 1 (New) | 51 ✅ |
+| 05 | Animated Coding Interview Patterns in Java: Part 1 (New) | 56 ✅ |
+| 06 | Animated Coding Interview Patterns in Python: Part 1 (New)| 58 ✅ |
+| 07 | Animated Coding Interview Patterns in Java: Part 2 (New) | 56 ✅ |
+| 08 | Animated Coding Interview Patterns in Python: Part 2 (New)| 58 ✅ |
+| 09 | Animated Coding Interview Patterns in Java: Part 3 (New) | 56 ✅ |
+| 10 | Animated Coding Interview Patterns in Python: Part 3 (New)| 58 ✅ |
+| 11 | Animated Coding Interview Patterns in Java: Part 4 (New) | 56 ✅ |
+| 12 | Animated Coding Interview Patterns in Python: Part 4 (New)| 58 ✅ |
 
----
-
-## Series 4 — Cracking Coding Interview Patterns: Part 2 (80% Fixed, 20% Flexible Curriculumn)
-
+### Series 4 — Data Structures & Algorithms (80% Fixed, 20% Flexible)
 | # | Course Title | Chars |
 |---|---|---|
-| 07 | Animated Cracking Coding Interview Patterns in Java: Part 2 (New) | 49 ✅ |
-| 08 | Animated Cracking Coding Interview Patterns in Python: Part 2 (New) | 51 ✅ |
+| 13 | Animated Data Structures & Algorithms in Java (New) | 45 ✅ |
+| 14 | Animated Data Structures & Algorithms in Python (New) | 47 ✅ |
+| 15 | Animated Data Structures & Algorithms in C++ (New) | 44 ✅ |
 
----
-
-## Series 5 — Data Structures & Algorithms (80% Fixed, 20% Flexible Curriculumn)
-
+### Series 5 — System Design Masterclass (Language Agnostic & Java)
+*Note: Java is the industry standard for LLD (OOP & Design Patterns). HLD is completely language-agnostic and relies on architecture diagrams.*
 | # | Course Title | Chars |
 |---|---|---|
-| 13 | Animated Data Structures & Algorithms in Java (New) | 23 ✅ |
-| 14 | Animated Data Structures & Algorithms in Python (New) | 25 ✅ |
-| 15 | Animated Data Structures & Algorithms in C++ (New) | 25 ✅ |
+| 16 | Animated Low-Level System Design (LLD) in Java (New) | 52 ✅ |
+| 17 | Animated High-Level System Design (HLD) Masterclass | 51 ✅ |
 
 ---
 
+## 🛠️ Content Strategy — Same vs Different
 
+To scale this curriculum across multiple programming languages efficiently, we follow a strict content differentiation strategy to pass Udemy's duplicate content checks.
 
-## Content Strategy — Same vs Different
-
-### ✅ Same (UI/Template — Udemy does NOT count this)
+### ✅ Same (UI/Template — Udemy does NOT count this as duplicate)
 - Slide layout & design template
 - Font family & color theme
 - Intro / Outro template
@@ -76,8 +69,9 @@
 
 ---
 
-## Udemy 50% Rule — Compliance Checklist
+## ⚖️ Udemy 50% Rule — Compliance Checklist
 
+Before publishing any cross-language version of a course, ensure the following criteria are met to guarantee 100% compliance with Udemy's policy:
 - [x] Code sections → 100% different (language-specific)
 - [x] Code explanation → 100% different (language-specific)
 - [x] Dry run → Different examples per language
@@ -87,14 +81,14 @@
 
 ---
 
-## Publishing Order (Recommended)
+## 🚀 Publishing Order (Recommended Execution Plan)
 
-| Phase | Series | Courses | |
+Execute production and publishing in the following sequence to maximize cross-selling and student retention.
+
+| Phase | Series | Courses | Notes |
 |---|---|---|---|
-| Phase 1 | Blind 75 | 01 → 03 | ← Start here |
-| Phase 2 | LeetCode Top 150 | 04 → 06 | |
-| Phase 3 | CCI Patterns Part 1 | 07 → 09 | |
-| Phase 4 | CCI Patterns Part 2 | 10 → 12 | |
-| Phase 5 | CCI Patterns Part 3 | 13 → 15 | |
-| Phase 6 | CCI Patterns Part 4 | 16 → 18 | |
-| Phase 7 | Data Structures | 19 → 21 | ← Finish here |
+| Phase 1 | Blind 75 | 01 → 02 | ← Start here (Highest search volume) |
+| Phase 2 | LeetCode Top 150 | 03 → 04 | Capitalize on students finishing Phase 1 |
+| Phase 3 | CCI Patterns (Parts 1-4) | 05 → 12 | The core interview prep offering |
+| Phase 4 | Data Structures | 13 → 15 | Fundamentals |
+| Phase 5 | System Design | 16 → 17 | ← Finish here (The final boss / highest ticket) |
